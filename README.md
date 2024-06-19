@@ -1,4 +1,4 @@
-# Machine Learning Classification Analysis
+# Customer Churn Prediction - Machine Learning Classification Analysis
 
 This project aims to familiarize users with Python programming, classification techniques, and data handling. It focuses on data preprocessing and implementing classification algorithms, including Naïve Bayes, Logistic Regression, and Support Vector Machines (SVMs). The project also explores the challenges associated with labeled data and provides detailed interpretations of the classification results.
 
